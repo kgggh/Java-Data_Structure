@@ -18,7 +18,7 @@ public class JudgeSign {
 		}else {
 			System.out.println("0ют╢о╢ы.");
 		}
-
+		sc.close();
 	}
 
 }

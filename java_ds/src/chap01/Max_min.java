@@ -27,6 +27,7 @@ public class Max_min {
 		max4(13,10,11,2);
 		min3(8,7,10);
 		min4(4,1,7,10);
+		sc.close();
 	}
 	
 	

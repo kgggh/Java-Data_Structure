@@ -15,6 +15,7 @@ public class SumGauss {
 		System.out.println("a를 입력해주세요");int a = sc.nextInt();
 		System.out.println("b를 입력해주세요");int b = sc.nextInt();
 		System.out.println(a+"와"+b+"의 합은=> "+ sumof(a,b));
+		sc.close();
 	}
 	static int sumof(int a, int b) {
 		int min;

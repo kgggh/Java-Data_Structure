@@ -17,6 +17,7 @@ public class SumForEx {
 			sum += i;
 		}
 		System.out.println("=" + sum);
+		sc.close();
 		
 	}
 	

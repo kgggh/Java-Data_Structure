@@ -17,5 +17,6 @@ public class SumForPos {
 			sum+=i;
 		}
 		System.out.println(n+"까지의 합은? " + sum);
+		sc.close();
 	}
 }

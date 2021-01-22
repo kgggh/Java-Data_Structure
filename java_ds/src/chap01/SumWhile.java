@@ -17,6 +17,7 @@ public class SumWhile {
 			i++;
 		}
 		System.out.println("1부터 "+n+"까지의 합은 -> " + sum);
+		sc.close();
 	}
 
 }

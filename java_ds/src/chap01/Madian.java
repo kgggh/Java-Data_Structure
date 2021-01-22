@@ -26,6 +26,7 @@ public class Madian {
 		System.out.println("med3(1,3,2) = " + med3(1, 3, 2)); // b£¾c£¾a
 		System.out.println("med3(2,3,3) = " + med3(2, 3, 3)); // b£½c£¾a
 		System.out.println("med3(1,2,3) = " + med3(1, 2, 3)); // c£¾b£¾a
+		sc.close();
 	}
 	
 	
